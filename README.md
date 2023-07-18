@@ -1,8 +1,8 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=salamzadeh&style=flat-square&color=blue" alt=""/>
 
-Hi I'm ✨ **Sasan Salamzadeh** ✨ a self taught, design thinking full-stack PHP developer with a passion for web-service design. I'm an absolute geek and love geeking out on all things Windows, Linux, **PHP**, **C#** and everything hole IT and Programming.
-First fell in love with windows programming 15 years ago simply because it made my programming skills come alive. after 3 years i start web design with PHPNuke CMS, Since then I have been hooked. Although my focus for now is heavily in both frontend and backend web development. My favorite development stack at the moment is **PHP**, **Java**, **Javascript**, **EXTJs**, **MYSQL**, **MongoDB** and Arch linux are.
+Hi I'm ✨ **Sasan Salamzadeh** ✨ a self taught, design thinking full-stack PHP developer with a passion for web-service design. I'm an absolute geek and love geeking out on all things Windows, Linux, **PHP**,**PHP**, **C#** and everything hole IT and Programming.
+First fell in love with windows programming 17 years ago simply because it made my programming skills come alive. after 3 years i start web design with PHPNuke CMS, Since then I have been hooked. Although my focus for now is heavily in both frontend and backend web development. My favorite development stack at the moment is **PHP**,**Python**, **Java**, **Javascript**, **EXTJs**, **MYSQL**, **MongoDB** and Arch linux are.
 Values I hold high are loyalty, reliability, authenticity and helping other achieve their success. Which is why I see projects through to the end and why I believe in not only creating beautiful software but also reliable and reflect the client's brand and that is easy to use so that it does not distract the a user experience
 Whether it’s creating servers in Node, connecting to MongoDB databases or designing unique user experiences per device whilst still maintaining a consistent brand experience I will bring your ideas to life.
 
